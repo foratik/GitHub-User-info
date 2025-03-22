@@ -52,18 +52,18 @@ This project aims to build a Kotlin terminal application that fetches user detai
 
 3. Run the application:
 
-Linux / MacOS:
-  ```sh
-  chmod +x gradlew
-  ./gradlew build
-  ./gradlew run
-  ```
-
-Windows:
-```batch
-gradlew.bat build
-gradlew.bat run
-```
+   Linux / MacOS:
+     ```sh
+     chmod +x gradlew
+     ./gradlew build
+     ./gradlew run
+     ```
+   
+   Windows:
+      ```batch
+      gradlew.bat build
+      gradlew.bat run
+      ```
 
 ## 📦 Program Menu
 ```plaintext
